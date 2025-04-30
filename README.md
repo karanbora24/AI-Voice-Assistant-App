@@ -74,4 +74,4 @@ A React Native mobile application that uses VAPI for AI voice assistant function
 
 ## Credits
 
-Created by [Your Name] for [Company Name] internship assignment.
+Created by karan for Wartin Labs internship assignment.
